@@ -35,7 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="cplusplus logo" />
-          
 </div>
+
+<h3 align="left">🔥 My Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh484&theme=dracula" alt="Shubh484k" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh484&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh484&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh484&theme=radical&disable_animations=true" alt="Shubh484" /></p>
+
+
+
+
 
 
