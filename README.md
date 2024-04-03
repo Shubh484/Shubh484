@@ -10,7 +10,7 @@
 ###
 
 <p align="left">I'm from India<br><br>
-  - 🔭 I’m currently learning Reactjs and Nodejs.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.</p>
+  - 🔭 I’m currently learning Reactjs and Nodejs.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- ♟️ I love playing Chess.</p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
