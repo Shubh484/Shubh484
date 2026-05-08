@@ -1,94 +1,171 @@
-<h1 align="center">Hi there! 👋 I'm Shubh Singh</h1>
-<p align="center">🌐 Frontend Developer | 💡 Problem Solver | 🎯 Focused on Vue.js, Nuxt.js & TypeScript</p>
+<div align="center">
+
+# Young's Double-Slit Experiment
+
+### Interactive Physics Simulation of Wave Interference
+
+[![Physics](https://img.shields.io/badge/Physics-Wave%20Optics-blue)]()
+[![Simulation](https://img.shields.io/badge/Simulation-Interactive-green)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
+A modern simulation of the famous Young’s Double-Slit Experiment, demonstrating
+wave interference, diffraction, and fundamental concepts of quantum mechanics.
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 💼 Frontend developer with experience building scalable, performant, and accessible web applications  
-- 🔭 Currently exploring **Node.js** and expanding backend skills  
-- 🤝 Open to contributing to impactful **open-source projects**  
----
+## Overview
 
-## 🛠️ Tech Stack & Tools
+This project visualizes the interference pattern produced when coherent light
+passes through two narrow slits. It provides an interactive and educational
+way to explore the principles of wave optics.
 
-### **Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="Nuxt.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
-</p>
-
-### **State Management & Backend**
-<p align="left">
-  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-</p>
-
-### **DevOps & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</p>
-
-### **Other Languages & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-</p>
+The simulation allows users to modify physical parameters such as wavelength,
+slit separation, and screen distance to observe real-time changes in the
+interference pattern.
 
 ---
 
-## 📊 GitHub Stats
+## Features
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh484&show_icons=true&theme=radical" alt="Shubh GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh484&theme=radical" alt="Shubh GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh484&layout=compact&theme=radical" alt="Shubh Most Used Languages" />
-</p>
+- Real-time interference pattern visualization
+- Adjustable wavelength and slit separation
+- Intensity distribution graph
+- Responsive and interactive UI
+- Educational physics demonstration
+- Clean and modular codebase
 
 ---
 
-## 🏆 Achievements
+## Physics Behind the Experiment
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubh484&theme=dracula" alt="GitHub Trophies" />
-</p>
+Young’s Double-Slit Experiment demonstrates the wave nature of light.
+
+The fringe spacing is given by:
+
+\[
+\Delta y = \frac{\lambda D}{d}
+\]
+
+Where:
+
+| Symbol | Description |
+|--------|-------------|
+| \( \lambda \) | Wavelength of light |
+| \( D \) | Distance between slits and screen |
+| \( d \) | Separation between slits |
+
+Constructive and destructive interference between light waves produces the
+characteristic bright and dark fringe pattern.
 
 ---
 
-## 📈 Contribution Activity
+## Preview
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+![Simulation Preview](assets/preview.png)
+
+</div>
 
 ---
 
-## 📬 Connect with Me
+## Tech Stack
 
-<p align="left">
-  <a href="https://twitter.com/shubhtweetz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubh-singh-3a2988211/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
-  </a>
-</p>
+- HTML5 / CSS3 / JavaScript  
+- Canvas / SVG Rendering  
+- Physics-based mathematical modeling  
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/young-double-slit-experiment.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd young-double-slit-experiment
+```
+
+Run locally:
+
+```bash
+# Open index.html
+```
+
+Or start a local server:
+
+```bash
+npx serve
+```
+
+---
+
+## Usage
+
+Adjust the simulation parameters:
+
+- Wavelength
+- Slit separation
+- Screen distance
+- Intensity scaling
+
+Observe how the interference pattern changes dynamically.
+
+---
+
+## Applications
+
+- Physics education
+- Wave optics visualization
+- Quantum mechanics demonstrations
+- Academic projects and presentations
+
+---
+
+## Future Improvements
+
+- Single-slit diffraction mode
+- Quantum probability visualization
+- 3D interference rendering
+- Photon-by-photon simulation
+- Mobile optimization
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a pull request
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## References
+
+- Fundamentals of Wave Optics
+- Young’s Double-Slit Experiment
+- Quantum Mechanics Interference Principles
+
+---
+
+<div align="center">
+
+Made with ❤️ for Physics and Visualization
+
+</div>
